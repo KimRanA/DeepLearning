@@ -1,1 +1,3 @@
 이 파일은 hotfix branch에서 만든거에요.
+이 내용은 hotfix branch에서 작업한거에요!!
+master의 내용과 충돌이 나요.
